@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Welcome to Student Management System</h1>
+<form  action="/formhandle"  >
+<input type="submit" name="act" value="ViewStudentDetails" >
+<br><br>
+<input type="submit" name="act" value="AddStudent">
+<br><br>
+<input type="submit" name="act" value="UpdateStudentDetails">
+<br><br>
+<input type="submit" name="act" value="RemoveStudent">
+<br><br>
+</form>
+</body>
+</html>

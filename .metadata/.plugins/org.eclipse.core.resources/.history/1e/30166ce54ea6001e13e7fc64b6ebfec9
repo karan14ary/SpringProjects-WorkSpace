@@ -1,0 +1,15 @@
+package com.demo.example.StudentService;
+
+import java.util.List;
+
+import com.demo.example.Entity.Student;
+
+public class StudentServiceImplementation implements StudentService {
+
+	@Override
+	public List<Student> fetchAllStudent() {
+		
+		return null;
+	}
+
+}

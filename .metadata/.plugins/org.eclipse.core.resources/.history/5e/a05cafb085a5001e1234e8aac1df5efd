@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Welcome to Student Management System</h1>
+<form>
+<button onClick="window.location.href='viewinfo.html';">View Student Details</button>
+<button onClick="window.location.href='addstudent.html';">Add Student</button>
+<button onClick="window.location.href='updatestudent.html';">Update Student Details</button>
+<button onClick="window.location.href='removestudent.html';">Remove Student</button>
+</form>
+</body>
+</html>

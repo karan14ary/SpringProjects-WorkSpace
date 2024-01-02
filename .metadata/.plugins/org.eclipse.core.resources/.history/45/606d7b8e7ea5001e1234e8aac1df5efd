@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="/form" method="post">
+<fieldset>
+<legend>User From</legend>
+<label>User Name: </label>
+<input type="text" name="username">
+<br>
+<br>
+<label>Email: </label>
+<input type="Email" name="mail">
+<br>
+<br>
+<label>Password: </label>
+<input type="password" name="password">
+<br>
+<br>
+<label>Gender </label>
+<input type="radio" name="gender" value="male"><label>Male </label>
+<input type="radio" name="gender" value="female"><label>Female </label>
+<input type="radio" name="gender" value="others"><label>Others </label>
+<br>
+<br>
+<label>D.O.B </label>
+<select name="date">
+<option >--</option>
+<option value="01">01</option>
+<option value="02">02</option>
+<option value="03">03</option>
+<option >04</option>
+<option name="date">05</option>
+<option name="date">06</option>
+<option name="date">07</option>
+<option name="date">08</option>
+<option name="date">09</option>
+<option name="date">10</option>
+<option name="date">11</option>
+<option name="date">12</option>
+<option name="date">13</option>
+<option name="date">14</option>
+<option name="date">15</option>
+<option name="date">16</option>
+<option name="date">17</option>
+<option name="date">18</option>
+<option name="date">19</option>
+<option name="date">20</option>
+<option name="date">21</option>
+<option name="date">22</option>
+<option name="date">23</option>
+<option name="date">24</option>
+<option name="date">25</option>
+<option name="date">26</option>
+<option name="date">27</option>
+<option name="date">28</option>
+<option name="date">29</option>
+<option name="date">30</option>
+</select>
+<label>Date </label>
+<select>
+<option name="month">--</option>
+<option name="month">01</option>
+<option name="month">02</option>
+<option name="month">03</option>
+<option name="month">04</option>
+<option name="month">05</option>
+<option name="month">06</option>
+<option name="month">07</option>
+<option name="month">08</option>
+<option name="month">09</option>
+<option name="month">10</option>
+<option name="month">11</option>
+<option name="month">12</option>
+</select>
+<label>Month </label>
+<select>
+<option name="year">--</option>
+<option name="year">1990</option>
+<option name="year">1991</option>
+<option name="year">1992</option>
+<option name="year">1993</option>
+<option name="year">1994</option>
+<option name="year">1995</option>
+<option name="year">1996</option>
+<option name="year">1997</option>
+<option name="year">1998</option>
+<option name="year">1999</option>
+<option name="year">2001</option>
+<option name="year">2002</option>
+<option name="year">2003</option>
+<option name="year">2004</option>
+<option name="year">2005</option>
+<option name="year">2006</option>
+<option name="year">2007</option>
+<option name="year">2008</option>
+<option name="year">2009</option>
+<option name="year">2010</option>
+<option name="year">2011</option>
+<option name="year">2012</option>
+<option name="year">2013</option>
+<option name="year">2014</option>
+<option name="year">2015</option>
+<option name="year">2016</option>
+<option name="year">2017</option>
+<option name="year">2018</option>
+<option name="year">2019</option>
+<option name="year">2020</option>
+<option name="year">2021</option>
+<option name="year">2022</option>
+<optionname="year">2023</option>
+</select>
+<label>Year</label>
+<br>
+<br>
+<label>Phone No:</label>
+<input type="number" name="phone">
+<br>
+<br>
+<input type="submit" value="Submit">
+</fieldset>
+</form>
+</body>
+</html>

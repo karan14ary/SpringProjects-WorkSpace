@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.example.demo.entity.Student"/>
+    <fullyQualifiedTypeName name="org.springframework.web.service.annotation.PutExchange"/>
+    <fullyQualifiedTypeName name="com.SpringBootProject.PostMan.Entity.Laptop"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
+    <fullyQualifiedTypeName name="com.example.RestApi.Reposetories.BikeRepoSitory"/>
+    <fullyQualifiedTypeName name="com.example.RestApi.Services.BikeService"/>
+    <fullyQualifiedTypeName name="com.example.RestApi.Entity.Bike"/>
+    <fullyQualifiedTypeName name="com.example.RestApi.Reposetories.BikeRepository"/>
+    <fullyQualifiedTypeName name="com.example.Laptop.Repository.LaptopRepository"/>
+    <fullyQualifiedTypeName name="com.example.Laptop.Service.LaptopService"/>
+    <fullyQualifiedTypeName name="com.example.Laptop.Entity.Laptop"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PutMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.DeleteMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.view.RedirectView"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+    <fullyQualifiedTypeName name="com.demo.example.StudentRepository.StudentRepository"/>
+    <fullyQualifiedTypeName name="com.demo.example.StudentService.StudentService"/>
+    <fullyQualifiedTypeName name="com.demo.example.Entity.Student"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.demo.example.entity.Laptop"/>
+    <fullyQualifiedTypeName name="com.demo.example.Repository.LaptopRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+    <fullyQualifiedTypeName name="com.demo.example.service.LaptopService"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+</qualifiedTypeNameHistroy>

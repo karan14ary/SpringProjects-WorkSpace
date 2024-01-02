@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="/form" method="post">
+<fieldset>
+<legend>User From</legend>
+<label>User Name: </label>
+<input type="text" name="username">
+<br>
+<br>
+<label>Email: </label>
+<input type="Email" name="mail">
+<br>
+<br>
+<label>Password: </label>
+<input type="password" name="password">
+<br>
+<br>
+<label>Gender </label>
+<input type="radio" name="gender" value="male"><label>Male </label>
+<input type="radio" name="gender" value="female"><label>Female </label>
+<input type="radio" name="gender" value="others"><label>Others </label>
+<br>
+<br>
+<label>D.O.B </label>
+<select name="date">
+<option >--</option>
+<option value="01">01</option>
+<option value="02">02</option>
+<option value="03">03</option>
+<option value="04">04</option>
+
+</select>
+<label>Date </label>
+<select name="month">
+<option >--</option>
+<option value="01">01</option>
+<option value="02">02</option>
+<option value="03">03</option>
+<option value="04">04</option>
+<option value="05">05</option>
+<option value="06">06</option>
+<option value="07">07</option>
+
+</select>
+<label>Month </label>
+<select name="year">
+<option >--</option>
+<option value="1990">1990</option>
+<option value="1991">1991</option>
+<option value="1992">1992</option>
+<option value="1993">1993</option>
+<option value="1994">1994</option>
+<option value="1995">1995</option>
+<option value="1996">1996</option>
+</select>
+<label>Year</label>
+<br>
+<br>
+<label>Phone No:</label>
+<input type="number" name="phone">
+<br>
+<br>
+<input type="submit" value="Submit">
+</fieldset>
+</form>
+</body>
+</html>

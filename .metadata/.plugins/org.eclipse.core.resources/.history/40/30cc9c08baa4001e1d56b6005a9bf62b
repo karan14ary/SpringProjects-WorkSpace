@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="">
+<fieldset>
+<legend>User Data</legend>
+<label>Enter the Data: </label>
+<input type="text" name="data" placeholder="Data"/>
+<br>
+<br>
+<input type="submit" value="Click Here">
+</fieldset>
+</form>
+</body>
+</html>

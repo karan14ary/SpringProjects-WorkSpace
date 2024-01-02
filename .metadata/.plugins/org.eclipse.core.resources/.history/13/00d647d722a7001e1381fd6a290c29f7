@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<table border="1" width="30%">
+<tr>
+<td>Id</td>
+<td>Brand</td>
+<td>Cost</td>
+</tr>
+<tr th:each="laptops:${laptops}">
+<td th:text="${laptops.id}"></td>
+<td th:text="${laptops.name}"></td>
+<td th:text="${laptops.cost}"></td>
+</tr>
+</table>
+</body>
+</html>

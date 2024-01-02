@@ -1,0 +1,5 @@
+package com.demo.example.Repository;
+
+public interface LaptopRepository {
+
+}

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="/student/add" method="post" >
+<label>StudentId:</label>
+<input type="text" name="sid">
+<br><br>
+<label>StudentName:</label>
+<input type="text" name="sname">
+<br><br>
+<label>StudentBranch:</label>
+<input type="text" name="sbranch">
+<br><br>
+<input type="submit" value="Add Student">
+</form>
+</body>
+</html>

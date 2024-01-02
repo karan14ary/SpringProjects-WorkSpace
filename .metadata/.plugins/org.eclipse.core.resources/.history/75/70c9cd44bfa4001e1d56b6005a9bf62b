@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="/marks" method="post">
+<fieldset>
+<legend>Student Marks</legend>
+<label>Enter the Student name: </label>
+<input type="text" name="name" placeholder="Student name"/>
+<br>
+<label>Enter the first subject Marks: </label>
+<input type="text" name="marks1" placeholder="Marks1"/>
+<br>
+<label>Enter the second subject Marks: </label>
+<input type="text" name="marks2" placeholder="Marks2"/>
+<br>
+<label>Enter the third subject Marks: </label>
+<input type="text" name="marks3" placeholder="Marks3"/>
+<br>
+<label>Enter the  fourth subject Marks: </label>
+<input type="text" name="marks4" placeholder="Marks4"/>
+<br>
+<label>Enter the fifth subject Marks: </label>
+<input type="text" name="marks5" placeholder="Marks5"/>
+<br>
+<br>
+<input type="submit" value="Check Percentage">
+</fieldset>
+</form>
+</body>
+</html>
